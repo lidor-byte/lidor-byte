@@ -67,4 +67,4 @@ I build websites, applications, software systems, and game experiences — from 
 ![System online](https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:0EA5E9&height=110&text=SYSTEM%20ONLINE%20%E2%80%A2%20AI%20%E2%80%A2%20CYBER%20%E2%80%A2%20FULL%20STACK&fontColor=38BDF8&fontSize=20&animation=blinking)
 
 </div>
-![Cyber HUD](cyber-hud.svg)
+<img src="cyber-hud.svg" alt="Cyber HUD" width="100%" />
