@@ -58,3 +58,13 @@ I build websites, applications, software systems, and game experiences — from 
 <sub>Building, learning, and shipping one project at a time. 🚀</sub>
 
 </div>
+## 🛡️ Cyber Command Center
+
+<div align="center">
+
+[![Cyber Terminal](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+LIDOR_BYTE+SYSTEM...;%3E+AI+MODULE%3A+ONLINE+%E2%9C%93;%3E+CYBERSECURITY+MODULE%3A+ONLINE+%E2%9C%93;%3E+FULL_STACK+MODULE%3A+ONLINE+%E2%9C%93;%3E+STATUS%3A+BUILDING+THE+FUTURE+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![System online](https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:0EA5E9&height=110&text=SYSTEM%20ONLINE%20%E2%80%A2%20AI%20%E2%80%A2%20CYBER%20%E2%80%A2%20FULL%20STACK&fontColor=38BDF8&fontSize=20&animation=blinking)
+
+</div>
+
